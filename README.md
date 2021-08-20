@@ -1,5 +1,5 @@
 # Relogiojs
 
-<h2>Exercicio</h2> 
+# Exercicio 
 
-##Exercício relógio analógico para treinar 
+## Exercício relógio analógico para treinar 
